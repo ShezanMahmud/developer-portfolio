@@ -16,6 +16,15 @@
   font-size: 20px;
   font-weight: 700;
 }
+.btn-primary-contact {
+  height: 64px;
+  border: 1px solid #fd6e0a;
+  border-radius: 5px;
+  padding: 18px 35px;
+  color: #fd6e0a;
+  font-size: 20px;
+  font-weight: 700;
+}
 
 .header {
   background-color: #fff8f3;
